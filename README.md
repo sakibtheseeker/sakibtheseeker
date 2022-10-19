@@ -6,7 +6,7 @@
 - :page_with_curl: See my potfolio <a href="https://sakib-tamboli.netlify.app/">here</a>
 - 🌱 I’m currently learning Figma
 - 💞️ I’m looking to collaborate on any projects related to web dev.
-- 📫 How to reach me stsakib123@gmail.com
+- 📫 You to reach me at stsakib123@gmail.com
 
 <!---
 sakibtheseeker/sakibtheseeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
