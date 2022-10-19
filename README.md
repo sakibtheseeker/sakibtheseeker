@@ -13,4 +13,13 @@ sakibtheseeker/sakibtheseeker is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h2> Skills</h2>
-<img src="https://www.flaticon.com/free-icon/html-5_174854?term=html&page=1&position=1&page=1&position=1&related_id=174854&origin=style" width="30" height="30"/>
+<div class=row>
+<img src="assets/html-5.png" width="30" height="30">
+<img src="assets/css-3.png" width="30" height="30">
+<img src="assets/js.png" width="30" height="30">
+<img src="assets/bootstrap.png" width="30" height="30"/>
+<img src="assets/figma.png" width="30" height="30"/>
+<img src="assets/python.png" width="30" height="30"/>
+<img src="assets/wordpress.png" width="30" height="30"/>
+<img src="assets/react (1).png" width="30" height="30"/>
+</div>
