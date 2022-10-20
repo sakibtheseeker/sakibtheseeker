@@ -17,10 +17,12 @@ You can click the Preview link to take a look at your changes.
 <img src="assets/html-5.png" width="30" height="30">
 <img src="assets/css-3.png" width="30" height="30">
 <img src="assets/js.png" width="30" height="30">
-<img src="assets/java.png" width="30" height="30"/>
 <img src="assets/bootstrap.png" width="30" height="30"/>
+<img src="assets/java.png" width="30" height="30"/>
 <img src="assets/figma.png" width="30" height="30"/>
 <img src="assets/python.png" width="30" height="30"/>
 <img src="assets/wordpress.png" width="30" height="30"/>
 <img src="assets/react (1).png" width="30" height="30"/>
+<img src="assets/c++.png" width="30" height="30"/>
+<img src="assets/c-sharp.png" width="30" height="30"/>
 </div>
