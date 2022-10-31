@@ -34,3 +34,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/sakib-tamboli/"><img src="assets/linkedin (1).png" width="30" height="30"/></a>
 <a href="https://www.upwork.com/freelancers/~01a66907ba6eadd090"><img src="assets/upwork.png" width="30" height="30"/></a>
   </div>
+  
+  ## :trophy: My Github Stats:
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&hide=php&theme=tokyonight" />
+
+  </a>
