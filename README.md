@@ -35,8 +35,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.upwork.com/freelancers/~01a66907ba6eadd090"><img src="assets/upwork.png" width="30" height="30"/></a>
   </div>
   
-  ## :trophy: My Github Stats:
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&hide=php&theme=tokyonight" />
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sakibtheseeker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sakibtheseeker&icon=0&color=0)](https://visitcount.itsvg.in)
 
   </a>
