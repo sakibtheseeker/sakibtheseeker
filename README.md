@@ -31,11 +31,12 @@ You can click the Preview link to take a look at your changes.
 <div class=row>
 <a href="https://www.linkedin.com/in/sakib-tamboli/"><img src="assets/linkedin (1).png" width="30" height="30"/></a> &nbsp
 <a href="https://twitter.com/sakibt_2501"><img src="assets/twitter.png" width="30" height="30"/></a> &nbsp
+<a href="https://www.codechef.com/users/tambolisaklait"><img src="assets/codechef logo.jpg" width="30" height="30"/></a> &nbsp
 <a href="https://www.hackerrank.com/tambolisaklait20?hr_r=1"><img src="assets/HackerRank_Icon-1000px.png" width="30" height="30"/></a> &nbsp
 <a href="https://www.upwork.com/freelancers/~01a66907ba6eadd090"><img src="assets/upwork.png" width="30" height="30"/></a>
   </div>
   
- # 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakibtheseeker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
