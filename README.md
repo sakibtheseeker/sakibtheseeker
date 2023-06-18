@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.java.com/en/"><img src="assets/java.png" width="30" height="30"/></a>
 <a href="https://figma.com/"><img src="assets/figma.png" width="30" height="30"/>
 <a href="https://www.python.org/"><img src="assets/python.png" width="30" height="30"/>
-<a href="https://wordpress.com/"><img src="assets/wordpress.png" width="30" height="30"/></a>
-<a href="https://reactjs.org/"><img src="assets/react (1).png" width="30" height="30"/></a>
 <a href="https://www.mysql.com/"><img src="assets/mysql.png" width="30" height="30"/></a>
 <img src="assets/c++.png" width="30" height="30"/>
 <img src="assets/c-sharp.png" width="30" height="30"/>
