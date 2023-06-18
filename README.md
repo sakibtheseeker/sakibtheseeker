@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 <div class=row>
 <a href="https://www.linkedin.com/in/sakib-tamboli/"><img src="assets/linkedin (1).png" width="30" height="30"/></a> &nbsp
 <a href="https://twitter.com/sakibt_2501"><img src="assets/twitter.png" width="30" height="30"/></a> &nbsp
+<a href="https://www.hackerrank.com/tambolisaklait20?hr_r=1"><img src="assets/upwork.png" width="30" height="30"/></a>
 <a href="https://www.upwork.com/freelancers/~01a66907ba6eadd090"><img src="assets/upwork.png" width="30" height="30"/></a>
   </div>
   
