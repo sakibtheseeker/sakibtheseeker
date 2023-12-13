@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img src="assets/html-5.png" width="30" height="30">
 <img src="assets/css-3.png" width="30" height="30">
 <img src="assets/js.png" width="30" height="30">
+<img src="assets/react.png" width="30" height="30"/></a>
 <a href="https://getbootstrap.com/"><img src="assets/bootstrap.png" width="30" height="30"/></a>
 <a href="https://www.java.com/en/"><img src="assets/java.png" width="30" height="30"/></a>
 <a href="https://figma.com/"><img src="assets/figma.png" width="30" height="30"/>
