@@ -7,7 +7,7 @@
 - :zap: I'm currently working on <a href="https://github.com/sakibtheseeker/foodonlineorder">foodonlineorder</a>
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on any projects related to web dev.
-- 📫 You can reach me at stsakib123@gmail.com
+- 📫 You can reach me at sakibtamboliwork@gmail.com
 
 <!---
 sakibtheseeker/sakibtheseeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
