@@ -1,6 +1,6 @@
 
 <h1> Hi 👋, I’m Sakib Tamboli</h1>
-<h2> Web Developer</h2>
+<h2> Web Developer , Frontend Developer</h2>
 
 - 👀 I’m interested in Web Development
 - :page_with_curl: See my potfolio <a href="https://sakib-tamboli.netlify.app/">here</a>
