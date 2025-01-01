@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development
 - :page_with_curl: See my potfolio <a href="https://sakib-tamboli.netlify.app/">here</a>
-- :zap: I'm currently working on <a href="https://github.com/sakibtheseeker/foodonlineorder">foodonlineorder</a>
+- :zap: I'm currently working on 
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on any projects related to web dev.
 - 📫 You can reach me at sakibtamboliwork@gmail.com
@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 <img src="assets/react (1).png" width="30" height="30"/></a>
 <a href="https://getbootstrap.com/"><img src="assets/bootstrap.png" width="30" height="30"/></a>
 <a href="https://www.java.com/en/"><img src="assets/java.png" width="30" height="30"/></a>
+  <img src="assets/spring-boot.png" width="30" height="30"/>
 <a href="https://figma.com/"><img src="assets/figma.png" width="30" height="30"/>
 <a href="https://www.python.org/"><img src="assets/python.png" width="30" height="30"/>
 <a href="https://www.mysql.com/"><img src="assets/mysql.png" width="30" height="30"/></a>
-<img src="assets/c++.png" width="30" height="30"/>
 <img src="assets/c-sharp.png" width="30" height="30"/>
 </div>
 
