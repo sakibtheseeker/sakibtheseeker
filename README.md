@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mysql.com/"><img src="assets/mysql.png" width="30" height="30"/></a>
 <img src="assets/c-sharp.png" width="30" height="30"/>
   <img src="assets/angularjs.png" width="30" height="30"/>
+  <img src="assets/sql-server.png" width="30" height="30"/>
 </div>
 
 <h2> Connect with me</h2>
