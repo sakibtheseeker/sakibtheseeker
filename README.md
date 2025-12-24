@@ -1,11 +1,11 @@
 
 <h1> Hi 👋, I’m Sakib Tamboli</h1>
-<h2> Web Developer , Frontend Developer</h2>
+<h2> Web Developer , Software Developer</h2>
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - :page_with_curl: See my potfolio <a href="https://sakib-tamboli.netlify.app/">here</a>
 - :zap: I'm currently working on 
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning angular, ASP.NET MVC
 - 💞️ I’m looking to collaborate on any projects related to web dev.
 - 📫 You can reach me at sakibtamboliwork@gmail.com
 
