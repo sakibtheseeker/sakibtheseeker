@@ -48,10 +48,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sakibtheseeker&label=Profile%20Views&icon=0&pretty=false" />
-</a>
-
 [![](https://visitcount.itsvg.in/api?id=sakibtheseeker&icon=0&color=0)](https://visitcount.itsvg.in)
 
   </a>
