@@ -44,8 +44,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=monoka](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibtheseeker&theme=monokai)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibtheseeker&theme=monokai" />
 </p>
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sakibtheseeker&label=Profile%20Views&icon=0&pretty=false" />
