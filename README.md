@@ -14,20 +14,37 @@ sakibtheseeker/sakibtheseeker is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h2> Skills</h2>
-<div class=row>
-<img src="assets/html-5.png" width="30" height="30">
-<img src="assets/css-3.png" width="30" height="30">
-<img src="assets/js.png" width="30" height="30">
-<img src="assets/react (1).png" width="30" height="30"/></a>
-<a href="https://getbootstrap.com/"><img src="assets/bootstrap.png" width="30" height="30"/></a>
-<a href="https://www.java.com/en/"><img src="assets/java.png" width="30" height="30"/></a>
+<h2>Skills</h2>
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+  <img src="assets/html-5.png" width="30" height="30"/>
+  <img src="assets/css-3.png" width="30" height="30"/>
+  <img src="assets/js.png" width="30" height="30"/>
+  <img src="assets/react.png" width="30" height="30"/>
+
+  <a href="https://getbootstrap.com/">
+    <img src="assets/bootstrap.png" width="30" height="30"/>
+  </a>
+
+  <a href="https://www.java.com/en/">
+    <img src="assets/java.png" width="30" height="30"/>
+  </a>
+
   <img src="assets/spring-boot.png" width="30" height="30"/>
-<a href="https://figma.com/"><img src="assets/figma.png" width="30" height="30"/>
-<a href="https://www.mysql.com/"><img src="assets/mysql.png" width="30" height="30"/></a>
-<img src="assets/c-sharp.png" width="30" height="30"/>
+
+  <a href="https://figma.com/">
+    <img src="assets/figma.png" width="30" height="30"/>
+  </a>
+
+  <a href="https://www.mysql.com/">
+    <img src="assets/mysql.png" width="30" height="30"/>
+  </a>
+
+  <img src="assets/c-sharp.png" width="30" height="30"/>
   <img src="assets/angularjs.png" width="30" height="30"/>
   <img src="assets/sql-server.png" width="30" height="30"/>
 </div>
+
 
 <h2> Connect with me</h2>
 <div class=row>
