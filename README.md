@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakibtheseeker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtheseeker&theme=dark&layout=compact&count_private=true)
 [![](https://visitcount.itsvg.in/api?id=sakibtheseeker&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <p align="center">
 
