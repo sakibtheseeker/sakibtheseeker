@@ -13,8 +13,7 @@
 sakibtheseeker/sakibtheseeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> Skills</h2>
-<h2>Skills</h2>
+<h2> Skills</h2>>
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
   <img src="assets/html-5.png" width="30" height="30"/>
